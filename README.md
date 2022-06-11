@@ -1,7 +1,9 @@
-## Prazer, eu sou a Aline! <img src="https://media4.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="40" height="40"/>
+## Prazer, eu sou a Aline! 
 
 
-<p><em>Cursando Análise e Desenvolvimento de Sistemas no <a href="https://umuarama.ifpr.edu.br/">IFPR</a></br>Dev na Gazin Tech <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Formada em Análise e Desenvolvimento de Sistemas no <a href="https://umuarama.ifpr.edu.br/">IFPR</a></br> 
+  Cursando Pós-Graduação em Desenvolvimento de Aplicações para Web e Dispositivos Móveis na <a href="https://www.alfaumuarama.edu.br/fau/index.php">UniAlfa</a></br> 
+  Dev na Gazin Tech <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <div align="center">
